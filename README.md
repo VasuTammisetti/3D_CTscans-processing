@@ -1,5 +1,4 @@
-
-#Building a 3D Convolutional Neural Network for Viral Pneumonia Detection in CT Scans
+# Building a 3D Convolutional Neural Network for Viral Pneumonia Detection in CT Scans
 
 This example demonstrates the step-by-step process of constructing a 3D Convolutional Neural Network (CNN) to predict the presence of viral pneumonia in computer tomography (CT) scans. While 2D CNNs are typically used to process RGB images with three channels, a 3D CNN is an extension that processes volumetric data. By taking input as a 3D volume or a sequence of 2D frames (such as slices in a CT scan), 3D CNNs offer a powerful model for learning detailed representations from volumetric data. This approach is particularly effective in medical imaging, where understanding the spatial relationships within the volume can significantly enhance diagnostic accuracy.
 
